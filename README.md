@@ -1,8 +1,7 @@
 # CA3 Pattern Formation and Retrieval Simulation
 
-This code simulates neural pattern formation and retrieval using the CARLsim simulator. Anyone that uses this software in a publication should please cite: 
-<br>Kopsick, J.D., Kilgore, J.A., Adam, G.C. et al. Formation and retrieval of cell assemblies in a biologically realistic spiking neural network model of area CA3 in the mouse hippocampus. J Comput Neurosci 52, 303–321 (2024). [https://doi.org/10.1007/s10827-024-00881-3](https://doi.org/10.1007/s10827-024-00881-3).
-<br>This simulation software and its results are reported on in that article.
+This code simulates neural pattern formation and retrieval using the CARLsim simulator. Anyone that uses this software in a publication should please cite the reference below. Reporting on this simulation software and its results are in that article.
+<br><br>Kopsick, J.D., Kilgore, J.A., Adam, G.C. et al. Formation and retrieval of cell assemblies in a biologically realistic spiking neural network model of area CA3 in the mouse hippocampus. J Comput Neurosci 52, 303–321 (2024). [https://doi.org/10.1007/s10827-024-00881-3](https://doi.org/10.1007/s10827-024-00881-3).
 
 Users of this software should please use the Hippocampome branch of the simulator [source code](https://github.com/UCI-CARL/CARLsim6/tree/feat/ca3net). Also, users should read the "use of this branch" section of the readme file for additional information [link](https://github.com/UCI-CARL/CARLsim6/tree/feat/ca3net?tab=readme-ov-file#use-of-this-branch).
 
