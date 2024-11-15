@@ -12,4 +12,4 @@ Usage and development documentation for this simulation is available [here](http
 
 Code for creating a new project is [here](https://github.com/Hippocampome-Org/spatial_nav/tree/main/scripts/new_proj). Users should use init_cs6_local.sh to create the project on their local computer. init_cs6_supcomp.sh is designed to create a project on George Mason University's supercomputer. Once a new project is made then the files from this repository that match the project should be copied into the relevant project folders to replace the original files (e.g., the main file).
 
-The files from the project subfolder should be copied into the new project's project folder files. The build folder contents should be copied into the new project's build folder files. The new project should then be ready to be rebuilt and run as a simulation.
+The files from the "project" subfolder should be copied into the new project's project folder files. The "build" folder contents should be copied into the new project's build folder files. The new project should then be ready to be rebuilt and run as a simulation.
